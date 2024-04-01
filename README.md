@@ -10,3 +10,5 @@ https://arxiv.org/pdf/2208.09836.pdf
 Self-supervised deep neural network model for motion-corrected quantitative analysis of DWI data using the Intra-voxel Incoherent Motion (IVIM) model.
 Code for the paper: "IVIM-Morph: Motion-compensated quantitative Intra-voxel Incoherent Motion (IVIM) analysis for functional fetal lung maturity assessment from diffusion-weighted MRI data"
 https://arxiv.org/abs/2401.07126
+
+[![Open sample notebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WXyyxjtk0L55Uxx1-lxEW9Q_ZuTlivOf?usp=sharing)
