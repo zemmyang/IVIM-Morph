@@ -3,4 +3,4 @@ pystrum==0.4
 torchio==0.19.3
 tensorboard==2.13.0
 tensorflow==2.13.1
-
+scikit-image==0.21.0
